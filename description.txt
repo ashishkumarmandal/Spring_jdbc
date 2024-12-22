@@ -1,0 +1,1 @@
+A Spring JDBC application demonstrating database operations with a modern GUI interface. Features include student management system with CRUD operations, Maven project structure, MySQL integration, and a user-friendly Swing-based interface for displaying results. Perfect for learning Spring JDBC implementation with proper DAO pattern and dependency injection.
